@@ -47,11 +47,11 @@ This script omits authentication to keep the focus purely on the **SMTP protocol
 
 * **Python**
 * **`socket`:** For low-level network connections.
+* **`ssl`:** For creating a secure (SSL/TLS) socket wrapper.
+* **`sys`:** For error handling and exiting.
+* **`time`:** For generating the `Date` header in the email.
 
 ## Team Members
 1. Ankit Kumar (Roll No: 2023021110)
 2. Anupam Kumar (Roll No: 2023021116)
 3. Adil Mustaq (Roll No: 2023021102
-* **`ssl`:** For creating a secure (SSL/TLS) socket wrapper.
-* **`sys`:** For error handling and exiting.
-* **`time`:** For generating the `Date` header in the email.
